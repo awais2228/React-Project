@@ -1,5 +1,4 @@
 import "./App.css";
-import React from 'react';
 import Dashboard from './Pages/Dashboard';
 import 'bootstrap/dist/css/bootstrap.min.css';
 

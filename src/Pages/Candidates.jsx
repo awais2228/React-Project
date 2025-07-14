@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
-
+//Dummy Data
 const initialCandidates = [
   { name: 'Alice Johnson', email: 'alice@example.com', internship: 'Frontend Developer', status: 'Pending' },
   { name: 'Bob Smith', email: 'bob@example.com', internship: 'Backend Developer', status: 'Approved' },
